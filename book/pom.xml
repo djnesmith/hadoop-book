@@ -14,7 +14,7 @@
     
     <!-- Component versions are defined here -->
     <!-- Note that Hadoop dependencies are defined in hadoop-meta -->
-    <avro.version>1.5.4</avro.version>
+    <avro.version>1.11.3</avro.version>
     <pig.version>0.9.1</pig.version>
     <hive.version>0.8.0</hive.version>
     <hbase.version>0.94.15</hbase.version>
